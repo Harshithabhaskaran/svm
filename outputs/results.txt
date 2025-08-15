@@ -1,0 +1,14 @@
+Linear Kernel Accuracy: 0.9561
+RBF Kernel Accuracy: 0.9737
+
+Hyperparameter Tuning Results (C, Gamma, CV Accuracy):
+   C  Gamma  CV Accuracy
+ 0.1   0.01     0.947306
+ 0.1   0.10     0.934995
+ 0.1   1.00     0.627418
+ 1.0   0.01     0.966636
+ 1.0   0.10     0.959587
+ 1.0   1.00     0.630927
+10.0   0.01     0.978932
+10.0   0.10     0.947260
+10.0   1.00     0.636190
